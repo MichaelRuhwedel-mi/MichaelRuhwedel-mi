@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames, cats  and techno
 - 🌱 I’m currently learning github actions
 - 💞️ I’m looking to collaborate on an evp
-- 📫 How to reach me slack
+- 📫 #team-core-lounge
 
 <!---
 MichaelRuhwedel-mi/MichaelRuhwedel-mi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
