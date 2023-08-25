@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelRuhwedel-mi
 - 👀 I’m interested in videogames, cats  and techno
-- 🌱 I’m currently learning github actions
+- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on an evp
 - 📫 #team-core-lounge
 
